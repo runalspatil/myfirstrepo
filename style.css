@@ -1,0 +1,15 @@
+h1{
+    background-color: aqua;
+    color: orange;
+}
+h2{
+    background-color: yellow;
+    color: rebeccapurple;
+}
+h4{
+    width: 202px;
+    height: 200px;
+    font-size: 20px;
+    background-color: brown;
+    color: white;
+}
